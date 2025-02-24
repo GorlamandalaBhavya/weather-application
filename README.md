@@ -14,8 +14,7 @@ This application will show the temperature of a location by find the device’s 
 
 
 
-## Live on
-https://karthik7013.github.io/WeatherApp/
+
 
 
 
